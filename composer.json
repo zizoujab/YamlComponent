@@ -1,0 +1,7 @@
+{
+    "require": {
+        "symfony/yaml": "^6.3",
+        "symfony/console": "^6.3",
+        "symfony/var-dumper": "^6.3"
+    }
+}
